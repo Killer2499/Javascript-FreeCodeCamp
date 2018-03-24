@@ -6,3 +6,5 @@ The api code of similar  example is commented in the random.js
 
 the commented code random.js explains you how to get the data from an api
 
+You can visit the random quote machine here: https://codepen.io/Killer99/pen/QmMmQz
+
