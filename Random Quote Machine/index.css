@@ -1,0 +1,50 @@
+body{
+    margin:0px;
+    padding:0px;
+    border:0px; 
+    background:#071958;
+}
+h1{
+    text-align:center;
+    padding:70px;
+    color:white;
+    font-family:'Oswald',sans-serif;
+}
+.quotebox{
+    background: white;
+    padding:30px;
+    width:50%;
+    margin:0px auto;
+    border-radius:10px;
+    font-family:"Dosis",sans-serif;
+    text-align: center;
+}
+#quote{
+    margin:0px auto;
+    font-size:150%;
+}
+#author{
+   margin:0px auto;
+   padding:20px;
+    
+}
+#tweet{
+    margin-right:10px;
+    margin-left:10px;
+}
+#fb{
+    margin-left:10px;
+}
+#open{
+   margin-right:20px;
+}
+#open1{
+    margin-right:20px;
+ }
+#close{
+    margin-left:20px;
+}
+
+
+
+
