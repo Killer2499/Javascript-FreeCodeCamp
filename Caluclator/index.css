@@ -1,0 +1,52 @@
+body{
+    background:#23263F;
+}
+.main{
+    color:black;
+    margin:0px auto;
+    width:25%;
+}
+table{
+    width: 100%;    
+}
+.caluclator{
+    box-shadow: 2px 5px 8px 10px #888888;  
+    margin-top:20px;              
+}
+td{
+    width:25%;
+    
+    padding:0px;
+}
+button{
+    width:100%;
+    height:70px;
+    background:white;
+    border: none;
+    font-family: 'Oswald',sans-serif;
+}
+button:hover{
+    background:#E5F03D;
+}
+#input{
+    height:70px;
+    padding-right:10px;
+    background:#D2DAD4;
+    text-align:right;
+    font-family: 'Oswald',sans-serif;
+}
+h1{
+    color:white;
+    font-family: 'Oswald',sans-serif;
+    font-size:350%;
+}
+.num{
+    background:#36373E;
+    color:white;
+}
+.operator{
+    background:#F5DE35;
+}
+.operator1{
+    background:#3A4ACF;
+}
